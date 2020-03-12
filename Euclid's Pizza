@@ -1,0 +1,19 @@
+---------XA----------
+GRAB 300
+COPY F M
+COPY F M
+COPY F M
+COPY F M
+COPY F M
+WIPE
+
+---------XB----------
+LINK 800
+GRAB 200
+SEEK 500
+COPY M F
+COPY M F
+COPY M F
+COPY M F
+COPY M F
+DROP
